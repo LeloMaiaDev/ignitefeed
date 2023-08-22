@@ -30,7 +30,7 @@
 
 .post > header {
     display: flex;
-    align-items: center;
+    //align-items: center;
     justify-content: space-between;
 }
 
@@ -41,14 +41,14 @@
 
 .author {
     display: flex;
-    align-items: center;
+    //align-items: center;
     gap: 1rem;
 }
 
 .authorInfo strong {
     display: block;
     color: var(--gray-100);
-    line-height: 1.6
+    //line-height: 1.6
 }
 
 .authorInfo span {
